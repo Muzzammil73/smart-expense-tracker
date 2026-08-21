@@ -20,3 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ### Dashboard
 
 ![Dashboard](./screenshot/image.png)
+
+## Dashboard
+
+![Dashboard Screenshot](public/screenshot/image.png)
